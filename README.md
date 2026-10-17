@@ -4,9 +4,13 @@
 ■ 開発環境・使用技術
 ----------------------------------------------------------------------
 ・Engine          : Unity 6 (0.58f1)
+
 ・Render Pipeline : Universal Render Pipeline (URP)
+
 ・Shading Language: HLSL
+
 ・Input           : Unity Input System
+
 
 
 ■ 収録シェーダー・機能一覧 
